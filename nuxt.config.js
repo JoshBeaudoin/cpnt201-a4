@@ -25,14 +25,14 @@ export default {
       '@nuxt/image',
       '@nuxtjs/google-analytics',
     ],
+       
     modules: [
-      [
-        "@storyblok/nuxt",
-        {
-          accessToken: "YOUR_PREVIEW_TOKEN",
-          cacheProvider: "memory",
-        },
-      ],
-    ],
-    build: { 
-  }
+          [
+            "@storyblok/nuxt",
+            {
+              accessToken: "YOUR_PREVIEW_TOKEN",
+              cacheProvider: "memory",
+            },
+          ],
+        ]
+      }
