@@ -1,0 +1,22 @@
+{
+  "name": "cpnt201-a3",
+  "version": "1.0.0",
+  "description": "a class project to help us learn tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshBeaudoin/tailwind-activity-template.git"
+  },
+  "author": "Josh Beaudoin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshBeaudoin/tailwind-activity-template/issues"
+  },
+  "homepage": "https://github.com/JoshBeaudoin/tailwind-activity-template#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
