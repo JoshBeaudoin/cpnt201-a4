@@ -35,3 +35,12 @@
               '@nuxtjs/google-analytics',
             ],
         }
+        export default {
+            modules: [
+              '@nuxtjs/gtm',
+            ],
+            gtm: {
+              id: 'GTM-XXXXXXX'
+            }
+          }
+          
