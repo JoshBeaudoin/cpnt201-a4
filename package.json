@@ -1,7 +1,7 @@
 {
   "name": "cpnt201-a4",
   "version": "1.0.0",
-  "private": true,
+  "author": "Josh B",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -17,6 +17,6 @@
     "@nuxtjs/tailwindcss": "^4.2.1",
     "@storyblok/nuxt": "^2.0.5",
     "gtm": ""
-    
+
   }
 }
